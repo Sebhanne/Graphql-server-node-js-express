@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server-node-js-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebhanne/Graphql-server-node-js-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebhanne/Graphql-server-node-js-express/issues"
+  },
+  "homepage": "https://github.com/Sebhanne/Graphql-server-node-js-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.1"
+  }
+}
